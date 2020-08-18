@@ -6,6 +6,11 @@
 
 Maïtané, David et Sabine
 
+### Arrivée de Maïtané Lenoir
+
+David Bruant et Sabine Safi proposent à Maïtané Lenoir de devenir membre de l'association l'Échappée Belle\
+Et Maïtané Lenoir accepte
+
 ### Comment on rejoint l'Echappée Belle ?
 
 A priori on ne rejoint pas l'Echappée Belle.
