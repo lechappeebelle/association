@@ -1,5 +1,22 @@
 # Journal de Décisions
 
+## 1 septembre 2020
+
+### Présent.e.s
+
+Maïtané, David, Sabine et Stéphane
+
+### Arrivée de Stéphane Langlois
+
+David Bruant et Sabine Safi et Maïtané Lenoir proposent à Stéphane Langlois de devenir membre de l'association l'Échappée Belle\
+Et Stéphane Langlois accepte
+
+### Membres et salariat
+
+La règle générale est que les membres de l'association sont ses salarié.e.s. Il peut arriver que des personnes qui ont seulement l'intention de devenir salarié.e.s sans l'être encore deviennent membres
+
+
+
 ## 11 juin 2020
 
 ### Présent.e.s
