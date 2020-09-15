@@ -8,6 +8,6 @@ Le [journal de décisions](https://github.com/lechappeebelle/association/blob/ma
 
 ## Administratif
 
-Numéro de SIRET : 888 006 202 00012
-
-Code APE : 9499Z
+- Numéro de SIREN : 888006202
+- Numéro de SIRET : 88800620200012
+- Code APE : 9499Z
