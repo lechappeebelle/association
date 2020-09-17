@@ -6,8 +6,13 @@ Et dans [ce board](https://github.com/orgs/lechappeebelle/projects/2?fullscreen=
 
 Le [journal de décisions](https://github.com/lechappeebelle/association/blob/master/journal-de-d%C3%A9cisions.md) documente les décisions majeures qu'on a prises jusque-là
 
+
 ## Administratif
 
 - Numéro de SIREN : 888006202
 - Numéro de SIRET : 88800620200012
 - Code APE : 9499Z
+
+## Divers
+
+- Email de l'équipe : [coucou@lechappeebelle.team](mailto:coucou@lechappeebelle.team)
