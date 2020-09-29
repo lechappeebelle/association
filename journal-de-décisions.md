@@ -1,5 +1,14 @@
 # Journal de Décisions
 
+## 29 septembre 2020
+
+### Présent.e.s
+Maïtané, David, Sabine
+
+On a envie de laisser de la place aux personnes qui subissent des oppressions systémiques.
+Le 1er septembre, on a écrit : "C'est important pour nous de ne pas reproduire les structures de pouvoir et d'oppression de notre société, donc nous veillons à ce que les hommes blancs cishet ne soient pas majoritaires dans la structure." Cette phrase ne nous satisfait pas car on ne veut pas aborder les personnes par le prisme de l'oppression systémique. Mais en attendant de trouver mieux, on la garde.
+
+
 ## 1 septembre 2020
 
 ### Présent.e.s
