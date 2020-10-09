@@ -1,4 +1,6 @@
-# Nos expériences
+---
+title: Nos expériences
+---
 
 Cette page raconte nos expériences, en tant que l'Échappée Belle ou en tant qu'individus avant la création de l'Échappée Belle.
 
