@@ -1,4 +1,6 @@
-# L'Echappée Belle
+---
+title: L'Echappée Belle
+---
 
 *Site en construction*
 
