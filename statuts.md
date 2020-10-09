@@ -1,4 +1,6 @@
-# L'Échappée Belle - Statuts
+---
+title: Statuts
+---
 
 ## Nom
 
