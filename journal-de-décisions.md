@@ -1,4 +1,6 @@
-# Journal de Décisions
+---
+title: Journal de Décisions
+---
 
 ## 29 septembre 2020
 
