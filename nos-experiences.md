@@ -50,15 +50,15 @@ Ordre de grandeur du budget du projet pour la ville de Montreuil : 20.000€ TTC
 
 ## Investigation et construction de services publics numériques dits "Startups d'Etat" avec beta.gouv.fr
 
-Nous avons tou.te.s travaillé au sein de beta.gouv.fr, l'incubateur de la Direction Interministérielle du Numérique (DINUM). Nous y construisons des services en ligne, au sein de l'administration, selon l'approche Startup d'Etat, c'est-à-dire en s'attachant à résoudre un problème bien défini et en mesurant l'impact réel du service.
+Nous avons tou.te.s travaillé au sein de beta.gouv.fr, l'incubateur de la Direction Interministérielle du Numérique (DINUM). Nous y construisons des services en ligne, au sein de l'administration, selon [l'approche Startup d'Etat](https://beta.gouv.fr/approche/), c'est-à-dire en s'attachant à résoudre un problème bien défini et en mesurant l'impact réel du service.
 
 Nous avons travaillé de manière prolongée sur les services suivants : 
 - **transport.data.gouv.fr** - la plateforme nationale d'open data des transports. Poursuite de la construction du service (Sabine)
 <!-- - **Zam** - gestion des amendements déposés dans le cadre d'un texte de loi à l'Assemblée. Construction du service (Maïtané) -->
-- **CoMobi / Lotocar** - service minimaliste de covoiturage à destination des territoires peu denses. Construction du service (David & Sabine)
-- **UrbanVitaliz** - guidage des collectivités dans la réhabilitation de leurs friches. Investigation et construction du service (Sabine & David)
-- **Écosanté** - service d'information de prévention des risques de santé liés à la qualité de l'air (David)
-- **Investigation** de problèmes en vue de la création éventuellement d'un service numérique (cartographie de l'agriculture biologique en France, identification des professionnels sur les portails de service public, création de démonstrateurs d'innovation urbaine...).
+- **[CoMobi / Lotocar](https://beta.gouv.fr/startups/lotocar.html)** - service minimaliste de covoiturage à destination des territoires peu denses. Construction du service (David & Sabine)
+- **[UrbanVitaliz](https://beta.gouv.fr/startups/friches.html)** - guidage des collectivités dans la réhabilitation de leurs friches. Investigation et construction du service (Sabine & David)
+- **[Écosanté](https://ecosante.beta.gouv.fr/)** - service d'information de prévention des risques de santé liés à la qualité de l'air (David)
+- **[Investigation](https://beta.gouv.fr/approche/investigation)** de problèmes en vue de la création éventuellement d'un service numérique (cartographie de l'agriculture biologique en France, identification des professionnels sur les portails de service public, création de démonstrateurs d'innovation urbaine...).
 - **Accompagnement du programme d'intrapreneuriat de la Région Hauts-de-France** : 12 intrapreneurs et 6 sujets investigués (Sabine)
 
 ## Entrepreneuriat
@@ -69,5 +69,5 @@ David et Sabine ont chacun.e eu plusieurs expériences de création d'entreprise
 
 David a donné des dizaines de formations de plusieurs jours sur des sujets techniques (web) et entrepreneuriaux. Il a aussi accompagné des entrepreneur.ses.
 <!-- Maïtané donne des cours dans le domaine de l'ergonomie. -->
-Sabine donne des formations à l'investigation de problèmes de politique publique et de l'accompagnement d'entrepreneur.ses.
+Sabine donne des formations à l'investigation de problèmes de politique publique et accompagne des entrepreneur.ses.
 
