@@ -48,7 +48,7 @@ Et dans d'autres cas, l'ordre de l'employeur.euse ne prend pas soin du consentem
 Quand une personne vous propose un CDI ou un CDD, c'est cette relation-là qu'elle vous propose. Même dans une SCOP, même dans une entreprise de l'ESS, même si l'offre a l'air merveilleuse par ailleurs
 
 
-... et ça ne nous convenait pas comme relation, parce qu'on n'a ni envie de subordonner les personnes avec lesquelles on travaille. Et on n'a pas non plus envie de leur être subordonnées.
+... et ça ne nous convenait pas comme relation, parce qu'on n'a ni envie de subordonner les personnes avec lesquelles on travaille, ni envie de leur être subordonnées.
 
 
 ### En attendant une réponse : la meilleure version du lien de subordination
@@ -60,7 +60,7 @@ Concrètement, la plupart du temps, l'entreprise nomme un.e **mandataire social.
 
 Mais dans une association, il n'existe pas d'obligation de nommer de mandataire social.e. Les intérêts de l'entreprise, ordre, contrôle et sanctions peuvent être définis par l'organe de gouvernance de l'association. Et si cet organe est un collectif, alors, c'est ce collectif, via son processus de décision habituel qui définit et met en œuvre le lien de subordination. Et il n'existe rien qui empêche chaque salarié.e de faire partie de cet organe de direction non plus.
 
-Côté SCOP, en SARL, il y a une obligation de nommer [un.e gérant.e](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031013015) qui joue le rôle de mandataire social.e pour le lien de subordination... ou plus précisément, une obligation de nommer "une ou plusieurs" gérant.e.s. Bien que très inhabituel, il est possible de nommer tou.te.s les salarié.e.s gérant.e et de préciser sans les statuts de la structure que le lien de subordination est avec le collectif des gérant.e.s
+Côté SCOP, en SARL, il y a une obligation de nommer [un.e gérant.e](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031013015) qui joue le rôle de mandataire social.e pour le lien de subordination... ou plus précisément, une obligation de nommer "une ou plusieurs" gérant.e.s. Bien que très inhabituel, il est possible de nommer tou.te.s les salarié.e.s gérant.e et de préciser dans les statuts de la structure que le lien de subordination est avec le collectif des gérant.e.s
 
 Au final, on se trouve dans une situation où chaque salarié.e est subordonné au collectif et fait partie de ce collectif et donc prend part à part égale aux décisions. Il reste un lien de subordination, mais aucun individu n'a un pouvoir spécial sur tous les autres. Aussi, il est possible qu'un sous-ensemble majoritaire des salarié.e.s subordonne les autres en piétinant complètement leur consentement, mais c'est une situation qui n'est pas facile à construire non plus.
 
