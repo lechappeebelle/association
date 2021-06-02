@@ -32,7 +32,7 @@ Il ne s'agit pas d'une opinion ou d'une croyance. Il s'agit du [droit français]
 
 Le lien de subordination n'est pas défini dans le Code du Travail
 
-Il est défini par un [par la jurisprudence](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007035180/)
+Il est défini [par la jurisprudence](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007035180/)
 
 > le lien de subordination est caractérisé par l'exécution d'un travail sous l'autorité d'un employeur qui a le pouvoir de donner des ordres et des directives, d'en contrôler l'exécution et de sanctionner les manquements de son subordonné
 
@@ -130,7 +130,6 @@ Et donc au final, il est possible de créer une scop où :
 Objectif atteint !
 
 (Et le statut d'ESA dans une CAE n'est pas nécessaire. Une Scop suffit !)
-
 
 
 
