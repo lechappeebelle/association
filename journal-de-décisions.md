@@ -130,9 +130,13 @@ La décision reste réversible, et sera discutable lorsque la communication sera
 L'ensemble des membres de l'Échappée Belle portent une attention à alimenter le pot commun afin qu'il ne soit jamais en négatif.
 Les dépenses du pot commun doivent être décidées collectivement, comme un coffre qui ne s'ouvrirai que lorsque chaque membre y mettrait sa clef.
 
+![4 coffres, 3 à 1 serrure nommés David, Sabine, Maïtané, et le 4e a 3 serrures](./img/pot_commun.jpg)
+
 Actuellement, dans le pot commun est prélevé :
 - L'assurance(~150 €/an)
 - La banque (~200 €/an)
 - L'expert comptable (~4000 €/an)
 - L'impôt sur les sociétés (parce qu'on n'a pas trouvé de manière juste de l'imputer individuellement) ( https://www.service-public.fr/professionnels-entreprises/vosdroits/F23575 )
+
+
 
