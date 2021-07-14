@@ -88,7 +88,20 @@ David et Sabine ont envie d'en faire une
 Mais ça ne sera pas une obligation pour les personnes suivantes
 
 
-## 14 juillet 2021
+## 1er février 2021
+
+Julia rejoint l'Échappée Belle, via un contrat CAPE qu'on est en train de mettre en place.
+
+
+
+## 6 avril
+
+Julia décide de quitter l'association et son contrat CAPE parce que c'était relou administrativement.
+
+
+
+
+## 14 juillet
 
 ### Présent⋅e⋅s
 
