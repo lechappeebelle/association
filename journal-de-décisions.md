@@ -86,3 +86,22 @@ David gère le sujet
 
 David et Sabine ont envie d'en faire une
 Mais ça ne sera pas une obligation pour les personnes suivantes
+
+
+## 14 juillet 2021
+
+### Les nouvelleaux entrant·es
+
+On se dit que pour faire rentrer une nouvelle personne : 
+- Déjà on voit si ça colle entre nous et elle,
+- On peut parler du modèle de menaces,
+- On voit comment ça se passe coté sous, entre :
+  - Combien la personne a besoin en revenus
+  - Comment ces revenus vont être générés. 
+
+Par ex, ça peut être, tout ou partie :
+- via de la facturation,
+- via du chômage ou autres trucs de l'état,
+- via le pot commun de l'Échappée Belle…et dans ce cas on en discute ensemble car il faut qu'il y ai assez d'argent dans le pot commun
+
+
