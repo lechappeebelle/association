@@ -90,7 +90,13 @@ Mais ça ne sera pas une obligation pour les personnes suivantes
 
 ## 14 juillet 2021
 
-### Les nouvelleaux entrant·es
+### Présent⋅e⋅s
+
+David, Sabine et Maïtané
+
+### Décisions
+
+#### Les nouvelleaux entrant·es
 
 On se dit que pour faire rentrer une nouvelle personne : 
 - Déjà on voit si ça colle entre nous et elle,
@@ -104,7 +110,7 @@ Par ex, ça peut être, tout ou partie :
 - via du chômage ou autres trucs de l'état,
 - via le pot commun de l'Échappée Belle…et dans ce cas on en discute ensemble car il faut qu'il y ai assez d'argent dans le pot commun
 
-### Comment on fait si quelqu'un ne répond pas ?
+#### Comment on fait si quelqu'un ne répond pas ?
 
 Pour l'instant, on contacte les membres de l'Échappée Belle par slack et mail.
 
@@ -118,7 +124,7 @@ Si durant une absence prolongée et malgré les relances, dont au moins une sur 
 - lui oter son statut de membre, elle n'aura alors plus accès à la gouvernance de l'association ;
 - licencier la personne, pour abandon de poste.
 
-### Le pot commun
+#### Le pot commun
 
 L'ensemble des membres de l'Échappée Belle portent une attention à alimenter le pot commun afin qu'il ne soit jamais en négatif.
 Les dépenses du pot commun doivent être décidées collectivement, comme un coffre qui ne s'ouvrirai que lorsque chaque membre y mettrait sa clef.
