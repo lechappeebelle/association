@@ -118,6 +118,14 @@ Si durant une absence prolongée et malgré les relances, dont au moins une sur 
 - lui oter son statut de membre, elle n'aura alors plus accès à la gouvernance de l'association ;
 - licencier la personne, pour abandon de poste.
 
+### Le pot commun
 
+L'ensemble des membres de l'Échappée Belle portent une attention à alimenter le pot commun afin qu'il ne soit jamais en négatif.
+Les dépenses du pot commun doivent être décidées collectivement, comme un coffre qui ne s'ouvrirai que lorsque chaque membre y mettrait sa clef.
 
+Actuellement, dans le pot commun est prélevé :
+- L'assurance(~150 €/an)
+- La banque (~200 €/an)
+- L'expert comptable (~4000 €/an)
+- L'impôt sur les sociétés (parce qu'on n'a pas trouvé de manière juste de l'imputer individuellement) ( https://www.service-public.fr/professionnels-entreprises/vosdroits/F23575 )
 
