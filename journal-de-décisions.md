@@ -104,4 +104,20 @@ Par ex, ça peut être, tout ou partie :
 - via du chômage ou autres trucs de l'état,
 - via le pot commun de l'Échappée Belle…et dans ce cas on en discute ensemble car il faut qu'il y ai assez d'argent dans le pot commun
 
+### Comment on fait si quelqu'un ne répond pas ?
+
+Pour l'instant, on contacte les membres de l'Échappée Belle par slack et mail.
+
+Chacun·e peut préciser un moyen de communication de "dernier recours", que chacun·e s'engage à consulter a minima. Ce moyen de communication pourra être utilisé par les autres membres de l'Échappée Belle afin d'informer la personne de prise de décisions importantes à venir, pour qu'iel puisse y participer si iel le souhaite :
+- Pour Sabine, par SMS sur son téléphone
+- Pour Maïtané, par SMS sur son téléphone
+- Pour David, sur davidbruant@protonmail.com
+
+
+Si durant une absence prolongée et malgré les relances, dont au moins une sur le moyen de "dernier recours", un membre et/ou salarié·e ne répond pas, les autres membres de l'Échappée Belle se prévoient la possibilité de :
+- lui oter son statut de membre, elle n'aura alors plus accès à la gouvernance de l'association ;
+- licencier la personne, pour abandon de poste.
+
+
+
 
