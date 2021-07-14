@@ -119,10 +119,11 @@ Chacun·e peut préciser un moyen de communication de "dernier recours", que cha
 - Pour Maïtané, par SMS sur son téléphone
 - Pour David, sur davidbruant@protonmail.com
 
-
 Si durant une absence prolongée et malgré les relances, dont au moins une sur le moyen de "dernier recours", un membre et/ou salarié·e ne répond pas, les autres membres de l'Échappée Belle se prévoient la possibilité de :
 - lui oter son statut de membre, elle n'aura alors plus accès à la gouvernance de l'association ;
 - licencier la personne, pour abandon de poste.
+
+La décision reste réversible, et sera discutable lorsque la communication sera rétablie.
 
 #### Le pot commun
 
