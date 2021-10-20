@@ -168,4 +168,20 @@ Actuellement, dans le pot commun est prélevé :
 - L'impôt sur les sociétés (parce qu'on n'a pas trouvé de manière juste de l'imputer individuellement) ( https://www.service-public.fr/professionnels-entreprises/vosdroits/F23575 )
 
 
+## 20 octobre 2021
+
+### Présent⋅e⋅s
+
+Sabine, Maïtané et David
+
+### Subordination
+
+Afin de clarifier la situation du salariat au sein de l'Échappée Belle auprès des différents organes de l'administration publique, nous précisons les choses suivantes :
+<!-- = pour faire plaisir à Pôle Emploi qui veut vérifier qu'on soit subordonné⋅es sinon on n'a pas le droit au chômage -->
+
+1. Chaque salarié est autonome dans l'exécution de ses tâches, dans le respect de l'objet de l'association et sous l'autorité du collectif des membres.
+2. Le salarié rend compte de son activité au collectif des membres, lors de la réunion hebdomadaire.
+3. En cas de manquement, le collectif des membres décide des sanctions appropriées pouvant aller jusqu'au licenciement pour faute lourde.
+
+Ce fonctionnement est effectif depuis la création de l'association.
 
