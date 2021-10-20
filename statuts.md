@@ -53,7 +53,7 @@ Il a notamment pour fonction de définir ce qui ne l'est pas dans les présents 
 
 ## Salariat
 
-Les salarié.e.s sont subordonné.e.s au collectif des membres de l'association.
+Les salarié.e.s sont subordonné.e.s au collectif des membres de l'association. Les décisions liées au statut de salarié.e sont prises par le collectif des membres de l'association.
 
 <!-- Et pour faire plaisir à Pôle Emploi on rajoute : -->
 
