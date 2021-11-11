@@ -179,7 +179,7 @@ Sabine, Maïtané et David
 Afin de clarifier la situation du salariat au sein de l'Échappée Belle auprès des différents organes de l'administration publique, nous précisons les choses suivantes :
 <!-- = pour faire plaisir à Pôle Emploi qui veut vérifier qu'on soit subordonné⋅es sinon on n'a pas le droit au chômage -->
 
-1. Chaque salarié.e propose les tâches et les conditions de travail qui lui paraissent les plus adaptées pour servir l'objet de l'association. Le collectif des membres valide cette proposition ou l'améliore itérativement avec le.a salarié.e jusqu'à ce qu'il soit décidé qu'elle serve au mieux l'objet de l'association tout en prenant compte du bien-être du ou de la salarié.e
+1. Chaque salarié.e propose les tâches et les conditions de travail qui lui paraissent les plus adaptées pour servir l'objet de l'association. Le collectif des membres valide cette proposition ou l'améliore itérativement avec le.a salarié.e jusqu'à ce qu'il soit décidé qu'elle serve au mieux l'objet de l'association tout en prenant compte le bien-être du ou de la salarié.e
 2. Le.a salarié.e rend compte de son activité au collectif des membres, lors d'une réunion hebdomadaire.
 3. En cas de manquement, le collectif des membres décide des sanctions appropriées pouvant aller jusqu'au licenciement pour faute lourde.
 
