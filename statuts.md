@@ -12,6 +12,10 @@ Association loi 1901
 
 L'association a des activités commerciales.
 
+## Siège social
+
+Montpellier (34000)
+
 ## Objet 
 
 ### Définition
