@@ -21,7 +21,8 @@ https://entreprise.data.gouv.fr/sirene/88800620200012
 
 - Email de l'équipe : [coucou@lechappeebelle.team](mailto:coucou@lechappeebelle.team)
 - Adresse postale:
-``
+
+```
 85 rue Jules Isaac 
 34000 Montpellier
-``
+```
