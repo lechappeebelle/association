@@ -185,3 +185,24 @@ Afin de clarifier la situation du salariat au sein de l'Échappée Belle auprès
 
 Ce fonctionnement est effectif depuis la création de l'association.
 
+## 30 novembre 2021
+
+### Présent⋅e⋅s
+
+Sabine, Maïtané, David et Erick
+
+Erick Gardin rejoint l'Échappée Belle.
+
+
+## 6 janvier 2022
+
+### Présent⋅e⋅s
+
+Sabine, Maïtané, David et Erick
+
+### Sortie de Stéphane
+Stéphane Langlois n'est plus membre de l'Échappée Belle par inactivité. La porte reste ouverte pour revenir à tout moment.
+
+### Prêt d'argent à David
+L'Échappée Belle est d'accord pour prêter 2000€ du pot commun à David pour son projet immobilier.
+
