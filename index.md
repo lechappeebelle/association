@@ -17,6 +17,6 @@ Nous créons des services numériques. Nous faisons aussi bien d'autres choses :
 ## Membres actuels
 
 - [David Bruant](https://eldritch.cafe/@davidbruant)
+- Erick Gardin
 - Maïtané Lenoir
 - [Sabine Safi](https://www.linkedin.com/in/sabinesafi/)
-- Stéphane Langlois
