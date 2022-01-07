@@ -25,7 +25,7 @@ Soutenir et promouvoir des activités et des personnes qui travaillent autour de
 
 ### Mise en œuvre
 
-L’activité commerciale et les différentes actions de l’association L'échappée Belle permettent la réalisation concrète de cet objet. L’association cherche à œuvrer en collaboration avec des organismes publics, des organisations privées et des individus.
+L’activité commerciale et les différentes actions de l’association L'Échappée Belle permettent la réalisation concrète de cet objet. L’association cherche à œuvrer en collaboration avec des organismes publics, des organisations privées et des individus.
 
 A titre indicatif, les activités commerciales possibles sont (liste non-exhaustive) : 
 - Accompagnement à la création de structures juridiques
