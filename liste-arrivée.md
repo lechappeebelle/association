@@ -26,7 +26,7 @@ Dans ce document, on note les trucs qu'on sait que c'est cool de faire pour acce
 - Faire une déclaration URSSAF (Déclaration Unique d'Embauche ou un truc comme ça)
   - Faire un contrat de travail ?
 - Mutuelle Wemind : 
-  - Rajouter la personne
+  - Rajouter la personne (vérifier s'eil n'a pas fait de simulation avant)
   - Demander si elle veut avoir les enfants - conjoint.e déclaré.e.s aussi ?
 
 
