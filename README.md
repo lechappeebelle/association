@@ -15,7 +15,7 @@ Le [journal de décisions](https://github.com/lechappeebelle/association/blob/ma
 - Numéro TVA intracommunautaire : `FR45 888 006 202`
 - Numéro RNA : W595037092
 
-https://entreprise.data.gouv.fr/sirene/88800620200012
+https://annuaire-entreprises.data.gouv.fr/entreprise/888006202
 
 ## Divers
 
