@@ -30,5 +30,5 @@ On a décidé de faire une liste de toutes nos galères avec des cabinets compta
 * EB : On nous dit que lorsque la structure change d'adresse, il n'y a rien à faire d'autre que la déclaration en préfecture
 * EB : Demande d'avoir les relevés de compte en excel pas en pdf parce que l'excel serait plus facile à modifier
 
-![Schéma des problemes](./img/comptanar_problemes.jpeg)
-![Schéma des solutions](./img/companar_solutions.jpeg)
+![Schéma des problemes](../img/comptanar_problemes.jpeg)
+![Schéma des solutions](../img/companar_solutions.jpeg)
