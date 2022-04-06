@@ -10,7 +10,7 @@ Le [journal de décisions](https://github.com/lechappeebelle/association/blob/ma
 ## Administratif
 
 - Numéro de SIREN : `888006202`
-- Numéro de SIRET : `88800620200012`
+- Numéro de SIRET : `88800620200020`
 - Code APE : `9499Z`
 - Numéro TVA intracommunautaire : `FR45 888 006 202`
 - Numéro RNA : W595037092
