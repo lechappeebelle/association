@@ -190,6 +190,17 @@ L'Échappée Belle est d'accord pour prêter 2000€ du pot commun à David pour
 
 **Edite (14/10/22) :** après vérification, ce n'est surement pas légal et donc on va pas le faire.
 
+## 6 juillet 2022
+
+### Présent⋅e⋅s
+
+Sabine, Maïtané, David et Erick
+
+### Droit au chômage
+
+Afin de savoir si un membre salarié a droit aux allocations chômages nous avons constitué un dossier de plusieurs dizaines de pages que nous avons soumis à Pôle Emploi dans le cadre d'une [procédure de rescrit](https://www.pole-emploi.fr/employeur/vos-declarations-et-cotisations/dirigeants-mandataires-associes/entreprises-verifiez-les-droits.html).
+
+**Édite (12/08/22) :** 🎉 [réponse positive de Pôle Emploi](documents/2022 08 réponse rescrit pôle emploi.pdf)
 
 ## 14 octobre 2022
 
