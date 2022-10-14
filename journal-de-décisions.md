@@ -186,5 +186,8 @@ Sabine, Maïtané, David et Erick
 Stéphane Langlois n'est plus membre de l'Échappée Belle par inactivité. La porte reste ouverte pour revenir à tout moment.
 
 ### Prêt d'argent à David
-L'Échappée Belle est d'accord pour prêter 2000€ du pot commun à David pour son projet immobilier.
+L'Échappée Belle est d'accord pour prêter 2000€ du pot commun à David pour son projet immobilier. 
+
+Edite (14/10/22) : après vérification, ce n'est surement pas légal et donc on va pas le faire.
+
 
