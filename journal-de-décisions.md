@@ -173,8 +173,8 @@ Actuellement, dans le pot commun est prélevé :
 
 Sabine, Maïtané, David et Erick
 
-Erick Gardin rejoint l'Échappée Belle.
-
+Erick Gardin rejoint l'Échappée Belle.\  
+Edite 14/10/22 : son moyen de communication de "dernier recours" est par SMS sur son téléphone
 
 ## 6 janvier 2022
 
@@ -191,3 +191,4 @@ L'Échappée Belle est d'accord pour prêter 2000€ du pot commun à David pour
 Edite (14/10/22) : après vérification, ce n'est surement pas légal et donc on va pas le faire.
 
 
+## 
