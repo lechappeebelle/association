@@ -157,7 +157,7 @@ La décision reste réversible, et sera discutable lorsque la communication sera
 #### Le pot commun
 
 L'ensemble des membres de l'Échappée Belle portent une attention à alimenter le pot commun afin qu'il ne soit jamais en négatif.
-Les dépenses du pot commun doivent être décidées collectivement, comme un coffre qui ne s'ouvrirai que lorsque chaque membre y mettrait sa clef.
+Les dépenses du pot commun doivent être décidées collectivement, comme un coffre qui ne s'ouvrirait que lorsque chaque membre y mettrait sa clef.
 
 ![4 coffres, 3 à 1 serrure nommés David, Sabine, Maïtané, et le 4e a 3 serrures](./img/pot_commun.jpg)
 
@@ -191,4 +191,20 @@ L'Échappée Belle est d'accord pour prêter 2000€ du pot commun à David pour
 Edite (14/10/22) : après vérification, ce n'est surement pas légal et donc on va pas le faire.
 
 
-## 
+## 14 octobre 2022
+
+### Présent⋅e⋅s
+
+Sabine, Maïtané, David et Erick
+
+### Gestion de l'argent en cas de départ
+
+Tiens, au fait, on a jamais expliqué notre fonctionnement lié aux sous :\
+Dans l'idée, les prestations facturées par un membre de l'Échappée Belle constituent sa trésorerie un peu comme dans une Coopératif d'Activité et d'Emploi (CAE).\
+Cette trésorerie permet au membre de se verser un salaire.\
+Nous avons un petit fichier permettant de faire ce suivi des trésoreries individuelles régulièrement.
+
+Si cette personne ne veut plus être salariée et qu'il lui reste de la trésorerie alors elle propose un destin concernant ce reste aux autres membres.\
+Iels décident à l'unanimité de ce qu'il en sera.\
+Notamment en faisant attention à la sécurité financière de l'association (TVA, IS sur l'exercice en cours, …)
+
