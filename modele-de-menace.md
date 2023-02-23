@@ -1,4 +1,3 @@
-# "Modèle de menace" : individu
 
 Si un individu très mal intentionné fait partie de la CAE
 De quelle manière ille peut nuire aux autres
