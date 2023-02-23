@@ -50,9 +50,9 @@ Maïtané, David et Sabine
 David Bruant et Sabine Safi proposent à Maïtané Lenoir de devenir membre de l'association l'Échappée Belle\
 Et Maïtané Lenoir accepte
 
-### Comment on rejoint l'Echappée Belle ?
+### Comment on rejoint l'Échappée Belle ?
 
-A priori on ne rejoint pas l'Echappée Belle.
+A priori on ne rejoint pas l'Échappée Belle.
 Ça peut arriver que les membres actuel.le.s de l'EB proposent à quelqu'un de rejoindre la structure.
 C'est important pour nous de ne pas reproduire les structures de pouvoir et d'oppression de notre société, donc nous veillons à ce que les hommes blancs cishet ne soient pas majoritaires dans la structure.
 
