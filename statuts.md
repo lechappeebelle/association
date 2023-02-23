@@ -4,7 +4,7 @@ title: Statuts
 
 ## Nom
 
-L'Echappée Belle
+L'Échappée Belle
 
 ## Forme
 
