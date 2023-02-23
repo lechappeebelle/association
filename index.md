@@ -1,5 +1,5 @@
 ---
-title: L'Echappée Belle
+title: L'Échappée Belle
 ---
 
 *Site en construction*
@@ -11,7 +11,7 @@ Nous créons des services numériques. Nous faisons aussi bien d'autres choses :
 
 [Nos expériences](nos-experiences)
 
-[Fonctionnement de L'Echappée Belle](fonctionnement)
+[Fonctionnement de L'Échappée Belle](fonctionnement)
 
 
 ## Membres actuels
