@@ -1,6 +1,5 @@
 
-Si un individu très mal intentionné fait partie de l'association.  
-De quelle manière ille peut nuire aux autres ?
+Si un individu très mal intentionné fait partie de l'association, de quelle manière iel peut nuire aux autres ?
 
 
 ## Menace juridique
