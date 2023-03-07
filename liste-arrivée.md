@@ -8,7 +8,7 @@ Dans ce document, on note les trucs qu'on sait que c'est cool de faire pour acce
 
 - Lire ensemble les [statuts](./statuts.md) et le [journal de décision](./journal-de-décisions.md) et discuter de tout ce qui peut gratter
   - [Risques](./modele-de-menace.md) et pouvoir  
-- Domumenter l'ajout de la personne dans le journal de décision
+- Documenter l'ajout de la personne dans le journal de décision
 - Rajouter la personne à [l'org github lechappeebelle](https://github.com/orgs/lechappeebelle/people)
 - Rajouter la personne à l'alias mail coucou@lechappeebelle.team sur gandi.net
 - Donner accès au compte en banque (Crédit Mutuel)
