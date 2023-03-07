@@ -35,7 +35,7 @@ De quelle manière ille peut nuire aux autres ?
 - **Membre assigne aux Prud'hommes l'association**
     - Prévention
         - Respect du consentement de lae membre
-        - Co-écriture du contrat qui précise l'absence de contraintes sur le travail, les horaires, la non-subordination, la gestion de l'argent...
+        - Discussion sur la subordination et le fonctionnement de l'Échappée Belle par rapport à l'absence de contraintes sur le travail, les horaires, la gestion de l'argent…
         - Ne travailler qu'avec des gens qui sont compatibles culturellement
         - Argent
             - Clarifier comment on gère si pas assez de cash dans la boîte pour payer les salaires
