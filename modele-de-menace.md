@@ -1,6 +1,6 @@
 
-Si un individu très mal intentionné fait partie de la CAE
-De quelle manière ille peut nuire aux autres
+Si un individu très mal intentionné fait partie de l'association.  
+De quelle manière ille peut nuire aux autres ?
 
 
 ## Menace juridique
@@ -12,7 +12,7 @@ De quelle manière ille peut nuire aux autres
         - la personne qui fait l'activité illégale arrête et "répare l'illégalité" (si possible)
         - la personne qui fait l'activité illégale s'en va
         - les personnes dérangées s'en vont
-        - La CAE se prend le procès puis se retourne contre la personne concernée
+        - L'association se prend le procès puis se retourne contre la personne concernée
 - **Action illégale (par ex payer des choses perso avec la boîte)**
     - Prévention (des erreurs de bonne foi)
         - Avoir un espace où tout le monde peut poser des questions en cas de doute
@@ -21,18 +21,18 @@ De quelle manière ille peut nuire aux autres
         - la personne qui fait l'activité illégale arrête et "répare l'illégalité" (si possible)
         - la personne qui fait l'activité illégale s'en va
         - les personnes dérangées s'en vont
-        - La CAE se prend le procès puis se retourne contre la personne concernée
-- **Contentieux légal avec d'autres personnes/structures en utilisant la CAE**
+        - L'association se prend le procès puis se retourne contre la personne concernée
+- **Contentieux légal avec d'autres personnes/structures en utilisant l'association**
     - Prévention
         - Discuter (l'ESA + peut-être médiateur.rice.s) avec le tiers pour prévenir le procès
-        - Discuter avec d'autres personnes de la CAE avant "escalade de la violence" pour essayer de s'accorder sur quoi faire et les conséquences pour la CAE
+        - Discuter avec d'autres personnes de l'association avant "escalade de la violence" pour essayer de s'accorder sur quoi faire et les conséquences pour l'association
         - Ne travailler qu'avec des gens qui sont compatibles culturellement
         - Sauf accord contraire avec les associés, les frais liés seront imputés sur le résultat de l'individu
     - Guérison
         - Aller jusqu'au bout de l'action légale
         - Sauf accord contraire avec les associé.e.s, l'ESA prend à sa charge les frais lié à son contentieux
-> A creuser : quelle est la responsabilité (ou possibilité d'exonération de resp) de la CAE par rapport à l'action d'un ESA ?
-- **ESA assigne aux Prud'hommes la CAE**
+> A creuser : quelle est la responsabilité (ou possibilité d'exonération de resp) de l'association par rapport à l'action d'un ESA ?
+- **ESA assigne aux Prud'hommes l'association**
     - Prévention
         - Respect du consentement de l'ESA
         - Co-écriture du contrat qui précise l'absence de contraintes sur le travail, les horaires, la non-subordination, la gestion de l'argent...
