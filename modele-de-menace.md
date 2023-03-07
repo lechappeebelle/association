@@ -60,7 +60,7 @@ Si un individu très mal intentionné fait partie de l'association, de quelle ma
         - travail partiel
         - congé sans solde
 
-- **Un.e membre prend un engagament financier (genre location matériel long terme/leasing) plus longtemps que sa présence dans la boîte**
+- **Un.e membre prend un engagement financier (genre location matériel long terme/leasing) plus longtemps que sa présence dans la boîte**
     - Prévention
         - ne pas s'engager pour trop longtemps
         - discussion collective préalable
