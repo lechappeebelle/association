@@ -6,7 +6,7 @@ Si un individu très mal intentionné fait partie de l'association, de quelle ma
 
 - **Activité illégale**
     - Prévention
-        - discuter avant de lancer une nouvelle activité (peut-être dans le cadre des entretiens individuels), notamment de si ça affecte le besoin de sécurité de certaines personnes
+        - discuter avant de lancer une nouvelle activité, notamment de si ça affecte le besoin de sécurité de certaines personnes
     - Guérison (si ça dérange)
         - la personne qui fait l'activité illégale arrête et "répare l'illégalité" (si possible)
         - la personne qui fait l'activité illégale s'en va
