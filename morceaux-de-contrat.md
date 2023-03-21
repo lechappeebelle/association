@@ -71,7 +71,7 @@ Le droit d'auteur se découpe en plusieurs "sous-droits" dans 2 catégories :
   - Droit de représentation (communication au public)
   - Droit d'adaptation (réalisation d'œuvres dérivées)
 
-Les droits moraux **ne peuvent pas être cédés** sur un contrat (mais en vrai, c'est assez rare qu'une personne souhaite les obtenir)
+Les droits moraux **ne peuvent pas être cédés** sur un contrat (mais en pratique, c'est assez rare qu'une personne souhaite les obtenir)
 
 Les droits patrimoniaux d'une œuvre peuvent être céder. Les [mentions suivantes sont alors obligatoires](https://entreprendre.service-public.fr/vosdroits/F22667) :
 - Identité des parties
@@ -82,13 +82,30 @@ Les droits patrimoniaux d'une œuvre peuvent être céder. Les [mentions suivant
 - Prix et modalités de paiement
 
 
+### Œuvres futures
+
+Quand on signe un contrat en début de projet, l'œuvre n'est pas créée (par définition). La doctrine est que les droits d'auteur sur une œuvre future ne peut pas être cédés : 
+
+>  La cession globale des oeuvres futures est nulle.
+
+[Article L 131-1 du CPI](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006278955)
+
+Toutefois, il semblerait que [la doctrine soit en train de changer (janvier 2023)](https://www.joffeassocies.com/newsletter-ip-cession-globale-doeuvres-futures-dun-salarie/) : 
+
+> Dans un arrêt du 25 janvier 2023 (RG 19/15256), la cour d’appel de Paris confirme une position pragmatique permettant ainsi d’assurer aux entreprises une certaine sécurité juridique.
+> (...)
+> La cour d’appel valide la clause de cession des œuvres « au fur et à mesure » de leur création
+
+Il semble donc qu'il soit possible de transférer les droits « au fur et à mesure » de leur création
+
+
 ### Transfert de tout ce qui peut l'être
 
 ```
 Dans le contexte de la prestation, <L'Échappée Belle> est amenée à créer pour <le client> et lui livrer :
 - des maquettes
 - des entretiens de recherche utilisateurs
-- du code source
+- du code source logiciel
 - de la documentation
 - des listes de descriptions de problèmes et solutions rangées et priorisées
 - un logo
@@ -100,11 +117,58 @@ Les droits sont cédés pour l'univers entier, sur la Planète Terre et le reste
 La cession est consentie pour toute la durée légale de protection des droits d'auteur (70 ans après la mort des personnes physiques autrices)
 Le paiement de la prestation est attendu en échange de la cession des droits d'auteurs dans les conditions ci-dessus. Aucune autre compensation financière spécifique à la cession des droit d'auteur n'est attendue au-delà de ce paiement
 
+Les droits décrit ci-dessus sont cédés au fur et à mesure de la livraison des créations par <l'Échappée Belle> au <client>
 
 ```
 
 
+### Mettre une licence libre sur ce qui est créé
 
+Une autre option est que chaque personne qui créé appose une licence libre (Creative Commons, par exemple) à ce qui est créé. Ainsi, le client peut disposer de créations de la manière décrite par la licence. La licence a valeur de contrat de cession.
+
+
+## Fonctionnement agile
+
+Il est assez clair pour quiconque a de l'expérience dans les produits numériques/innovants que le fonctionnement "cahier des charges => contrats avec attentes de résultats spécifiques et précis" est inadapté aux contraintes du métier. Il existe tout un pan de littérature scientifique couvergeant aussi vers cette conclusion
+
+Une réaction des personnes du métier a été les méthodologies agiles\
+Celles-ci permettent à la fois d'accepter une certaine quantité de flou dans la demande tout en permettant de travailler et livrer (et facturer) régulièrement quelque chose de fonctionnel qui s'améliore en continu
+
+En terme de contrat, le format qui permet un fonctionnement agile est le **contrat cadre** :
+
+> Le contrat cadre est un accord par lequel les parties conviennent des caractéristiques générales de leurs relations contractuelles futures. Des contrats d'application en précisent les modalités d'exécution. 
+
+[Article 1111 du Code Civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032040737)
+
+Les méthodes agiles contiennent l'idée de créer le produit itérativement et livrer quelque chose qui fonctionne régulièrement (tous les quelques jours à quelques semaines). On peut utiliser cette régularité de livraison pour y associer une régularité de paiement.\
+Ainsi, le client voit son produit avancer régulièrement et nous pouvons être payé régulièrement aussi. Ce fonctionnement a l'intérêt de créer la confiance progressivement, car chaque fin de sprint est l'occasion de s'arrêter. Soit parce que la collaboration ne se passe pas bien (pour n'importe quelle raison), soit parce qu'il n'y a plus de budget, par exemple
+
+
+
+
+### Morceau de contrat agile
+
+```
+Au moment de la rédaction du contrat, <le client> n'est pas en capacité de formuler une demande spécifique et exacte de ses attentes. Ce contrat est donc un contrat-cadre correspondant à un fonctionnement "agile" de <création du produit> en obligation de moyens
+
+Ce contrat-cadre définit des périodes appelées "sprint" (habituellement d'une durée de 1 à 4 semaines)
+
+Au début de chaque sprint, <L'Échappée Belle> et <le client> définissent ensemble notamment :
+- une date de début
+- une date de fin
+- un nombre de jours approximatifs que <l'Échappée Belle> imagine passer sur le projet (ce qui permet au <client> d'avoir un ordre de grandeur du budget pour ce sprint)
+- ce qui est attendu pour la fin du sprint en terme de production sous la forme d'une liste de problèmes à résoudre ou de solutions à mettre en place
+
+À la fin de chaque sprint, <L'Échappée Belle> et <le client> font le point ensemble sur notamment :
+- ce qui a été effectivement produit pendant le sprint
+- le nombre de jours effectivement passés
+
+Si <le client> est satisfait du sprint, il paye complètement le sprint (tous les jours qui ont effectivement eu lieu). S'il n'est pas satisfait, il ne paye rien et le contrat-cadre prend fin immédiatement.
+
+
+
+
+```
 
 
 ## Références
