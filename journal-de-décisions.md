@@ -171,16 +171,16 @@ Actuellement, dans le pot commun est prélevé :
 
 ### Présent⋅e⋅s
 
-Sabine, Maïtané, David et Erick
+Sabine, Maïtané, David et Érick
 
-Erick Gardin rejoint l'Échappée Belle.\
+Érick Gardin rejoint l'Échappée Belle.\
 **Edite (14/10/22) :** son moyen de communication de "dernier recours" est par SMS sur son téléphone
 
 ## 6 janvier 2022
 
 ### Présent⋅e⋅s
 
-Sabine, Maïtané, David et Erick
+Sabine, Maïtané, David et Érick
 
 ### Sortie de Stéphane
 Stéphane Langlois n'est plus membre de l'Échappée Belle par inactivité. La porte reste ouverte pour revenir à tout moment.
@@ -194,7 +194,7 @@ L'Échappée Belle est d'accord pour prêter 2000€ du pot commun à David pour
 
 ### Présent⋅e⋅s
 
-Sabine, Maïtané, David et Erick
+Sabine, Maïtané, David et Érick
 
 ### Droit au chômage
 
@@ -206,7 +206,7 @@ Afin de savoir si un membre salarié a droit aux allocations chômages nous avon
 
 ### Présent⋅e⋅s
 
-Sabine, Maïtané, David et Erick
+Sabine, Maïtané, David et Érick
 
 ### Gestion de l'argent en cas de départ
 
@@ -223,10 +223,10 @@ Notamment en faisant attention à la sécurité financière de l'association (TV
 
 ### Présent⋅e⋅s
 
-Fanny, Maiana, Sabine, Maïtané, David et Erick
+Fanny, Maiana, Sabine, Maïtané, David et Érick
 
 Fanny Cheung et Maiana Lenoir rejoignent l'Échappée Belle.\
-Le moyen de communication de "dernier recours" de Fanny est par SMS sur son téléphone
+Le moyen de communication de "dernier recours" de Fanny est par SMS sur son téléphone\  
 Le moyen de communication de "dernier recours" de Maiana est **à déterminer**
 
 
