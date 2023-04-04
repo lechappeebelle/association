@@ -219,3 +219,14 @@ Si cette personne ne veut plus être salariée et qu'il lui reste de la trésore
 Iels décident à l'unanimité de ce qu'il en sera.\
 Notamment en faisant attention à la sécurité financière de l'association (TVA, IS sur l'exercice en cours, …)
 
+## 22 février 2023
+
+### Présent⋅e⋅s
+
+Fanny, Maiana, Sabine, Maïtané, David et Erick
+
+Fanny Cheung et Maiana Lenoir rejoignent l'Échappée Belle.\
+Le moyen de communication de "dernier recours" de Fanny est par SMS sur son téléphone
+Le moyen de communication de "dernier recours" de Maiana est **à déterminer**
+
+
