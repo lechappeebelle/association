@@ -6,3 +6,5 @@ On s'est dit qu'on documenterait bien comment on peut calculer le remboursement 
 - Montant matériel informatique, périphériques (à 50%)
 - Montant consommables (ramette papier, cartouche d'encre…)
 - Montant frais connexion et abonnement (internet, téléphone) (à 70%)
+
+-> Solidaires propose un [simulateur](https://solidairesinformatique.org/simulation-teletravail.html)
