@@ -227,6 +227,5 @@ Fanny, Maiana, Sabine, Maïtané, David et Érick
 
 Fanny Cheung et Maiana Lenoir rejoignent l'Échappée Belle.\
 Le moyen de communication de "dernier recours" de Fanny est par SMS sur son téléphone\  
-Le moyen de communication de "dernier recours" de Maiana est **à déterminer**
-
+Le moyen de communication de "dernier recours" de Maiana est par SMS sur son téléphone\
 
