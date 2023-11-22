@@ -4,8 +4,8 @@ L'Échappée Belle a des activités commerciales
 
 De notre côté, nous avons plutôt un penchant pour préférer les discussions et l'écoute plutôt qu'un contrat écrit bien touffu/solide
 
-La sécurité dans nos relations commerciale vient de choisir avec qui nous travaillons et des relations saines que nous tissons\
-plutôt que de la menace de faire un procès s'il l'article 11.2 alinéa b du contrat n'est pas respecté
+La sécurité dans nos relations commerciales vient de choisir avec qui nous travaillons et des relations saines que nous tissons\
+plutôt que de la menace de faire un procès si l'article 11.2 alinéa b du contrat n'est pas respecté
 
 Et parfois, un contrat n'est pas évitable, 
 parce que nos interlocuteur.rice.s ne souhaitent pas aller à contre-courant de leur propre structure ou de la culture dominante
@@ -36,8 +36,8 @@ une chanson, un post de blog, même le contenu d'un contrat) a un droit de propr
 
 Même les salarié.e.s pour les créations créées dans le cadre de leur contrat de travail. Même lors de la création dans le contexte d'une prestation
 
-Ça, c'est la situation par défaut. Et après, il y a des cas spécifiques. Par exemple, l'auteur.rice peur **céder** une partie des droits d'auteur. Cette
-cession fait l'objet d'un contrat écrit (intégré au contrat de travail, de prestation, du marché public ou contrat/avevnant dédié). Après cession, la personne
+Ça, c'est la situation par défaut. Et après, il y a des cas spécifiques. Par exemple, l'auteur.rice peut **céder** une partie des droits d'auteur. Cette
+cession fait l'objet d'un contrat écrit (intégré au contrat de travail, de prestation, du marché public ou contrat/avenant dédié). Après cession, la personne
 qui a reçu les droits peut les utiliser dans les conditions décrites dans le contrat
 
 Aussi, un.e salarié.e qui produit un logiciel ou de la documentation [transfert ses droits patrimoniaux par défaut à son employeur](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039279818)
@@ -53,7 +53,7 @@ Le risque principal est que nous nous retournions plus tard pour réclamer quelq
 d'une manière non prévue par le contrat\
 Nous savons que nous ne passerons pas d'énergie à ça, mais le risque est encore là des années après\
 Un dérivé de ce risque est que si je décède sans avoir cédé les droits, les personnes que j'ai livré devront gérer la suite avec mes héritier.ère.s\
-Et même si la personne livrée peut avoir confiance en moi, elle n'a pas de raison, a priori, d'étendre cette confianc à mes héritier.ère.s
+Et même si la personne livrée peut avoir confiance en moi, elle n'a pas de raison, a priori, d'étendre cette confiance à mes héritier.ère.s
 
 Écrire une cession de droit enlève une Épée de Damoclès
 
@@ -73,7 +73,7 @@ Le droit d'auteur se découpe en plusieurs "sous-droits" dans 2 catégories :
 
 Les droits moraux **ne peuvent pas être cédés** sur un contrat (mais en pratique, c'est assez rare qu'une personne souhaite les obtenir)
 
-Les droits patrimoniaux d'une œuvre peuvent être céder. Les [mentions suivantes sont alors obligatoires](https://entreprendre.service-public.fr/vosdroits/F22667) :
+Les droits patrimoniaux d'une œuvre peuvent être cédés. Les [mentions suivantes sont alors obligatoires](https://entreprendre.service-public.fr/vosdroits/F22667) :
 - Identité des parties
 - Étendue des droits cédés
 - Destination
@@ -115,7 +115,7 @@ Pour chacune de ces œuvres de l'esprit, <l'Échappée Belle> cède à <le clien
 Chaque œuvre peut être diffusée sous toutes formes quand <le client> le souhaite, notamment sous forme numérique via son site internet et ses applications
 Les droits sont cédés pour l'univers entier, sur la Planète Terre et le reste de l'univers
 La cession est consentie pour toute la durée légale de protection des droits d'auteur (70 ans après la mort des personnes physiques autrices)
-Le paiement de la prestation est attendu en échange de la cession des droits d'auteurs dans les conditions ci-dessus. Aucune autre compensation financière spécifique à la cession des droit d'auteur n'est attendue au-delà de ce paiement
+Le paiement de la prestation est attendu en échange de la cession des droits d'auteurs dans les conditions ci-dessus. Aucune autre compensation financière spécifique à la cession des droits d'auteur n'est attendue au-delà de ce paiement
 
 Les droits décrit ci-dessus sont cédés au fur et à mesure de la livraison des créations par <l'Échappée Belle> au <client>
 
@@ -124,7 +124,7 @@ Les droits décrit ci-dessus sont cédés au fur et à mesure de la livraison de
 
 ### Mettre une licence libre sur ce qui est créé
 
-Une autre option est que chaque personne qui créé appose une licence libre (Creative Commons, par exemple) à ce qui est créé. Ainsi, le client peut disposer de créations de la manière décrite par la licence. La licence a valeur de contrat de cession.
+Une autre option est que chaque personne qui crée appose une licence libre (Creative Commons, par exemple) à ce qui est créé. Ainsi, le client peut disposer de créations de la manière décrite par la licence. La licence a valeur de contrat de cession.
 
 
 ## Fonctionnement agile
