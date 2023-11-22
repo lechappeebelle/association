@@ -1,6 +1,6 @@
 # Morceaux de contrat de prestation
 
-L'Échappée Belle a des actvités commerciales
+L'Échappée Belle a des activités commerciales
 
 De notre côté, nous avons plutôt un penchant pour préférer les discussions et l'écoute plutôt qu'un contrat écrit bien touffu/solide
 
