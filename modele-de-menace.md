@@ -100,7 +100,7 @@ Si un individu très mal intentionné fait partie de l'association, de quelle ma
 
 - **Le comportement d'un.e membre pose problème**
     - Prévention
-        - ne pas hésiter à donner son ressentie sur une situation avant que cela devienne répétitif et problématique, et si possible proposer une solution
+        - ne pas hésiter à donner son ressenti sur une situation avant que cela devienne répétitif et problématique, et si possible proposer une solution
         - prendre en compte les retours des membres et faire de son mieux pour activer les solutions proposées
     - Guérison
         - discuter avec la personne sur son comportement
