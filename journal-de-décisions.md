@@ -244,7 +244,7 @@ Le pot commun (voir journal de décision, 14 juillet 2021) remplit actuellement 
 
 Et ptèt que c'est pas très judicieux de fonctionner comme ça, parce que quand une personne met de l'argent dans le pot commun depuis son coffre individuel, elle n'a pas forcément envie de financer certaines aventures parce que ça risquerait de ne pas pouvoir payer les frais nécessaires à la structure
 
-Alors, nous avons décidé de crée un pot "aventures" dédié qui permet de financer les aventures. Les individus peuvent y verser de l'argent. Et aussi, on peut y verser collectivement de l'argent depuis le pot commun
+Alors, nous avons décidé de créer un pot "aventures" dédié qui permet de financer les aventures. Les individus peuvent y verser de l'argent. Et aussi, on peut y verser collectivement de l'argent depuis le pot commun
 
 Le prévisionnel du pot aventures peut être en négatif si nous avons suffisamment confiance dans les rentrées d'argent prochaines pour combler ce prévisionnel
 
