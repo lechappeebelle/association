@@ -67,3 +67,5 @@ title: L'Échappée Belle
 - [Sabine Safi](https://www.linkedin.com/in/sabinesafi/)
 - [Maiana Lenoir](https://mana-spirit.fr/)
 - [Fanny Cheung](https://ynote.hk/)
+
+[Page sur annuaire entreprises](https://annuaire-entreprises.data.gouv.fr/entreprise/888006202)
