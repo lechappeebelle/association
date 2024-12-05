@@ -61,6 +61,3 @@ Les salarié.e.s sont subordonné.e.s au collectif des membres de l'association.
 
 Dans le cas où le ou la salarié.e est membre de l'association, dans l'exercice de ses fonctions salariées, il ou elle est surbordonné.e au collectif des membres sauf lui-même ou elle-même. Un ou une membre de l'association ne peut être rémunéré.e que pour des tâches techniques distinctes de son mandat de direction de l'association.
 
-## Dons
-
-Nous acceptons les dons.
