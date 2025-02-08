@@ -9,7 +9,6 @@ Mais avec Stéphane Langlois, on réalise que quand même, il y a un petit point
 
 Alors, on a cherché autre chose...
 
-
 ## Détour : le salariat, ça contient un lien de subordination
 
 Dans la doctrine légale, un contrat de travail en France repose sur 3 piliers : 
