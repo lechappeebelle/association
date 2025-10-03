@@ -1,4 +1,8 @@
-
+---
+title: "Menaces interne"
+order: 1
+in_menu: true
+---
 Si un individu très mal intentionné fait partie de l'association, de quelle manière iel peut nuire aux autres ?
 
 
@@ -106,5 +110,4 @@ Si un individu très mal intentionné fait partie de l'association, de quelle ma
         - discuter avec la personne à propos de son comportement
         - la personne qui a un comportement problématique arrête ce comportement
         - la personne qui a un comportement problématique s'en va
-        - les personnes qui trouvent que le comportement est problématique s'en vont
-
+        - les personnes qui trouvent que le comportement est problématique s'en vont 
