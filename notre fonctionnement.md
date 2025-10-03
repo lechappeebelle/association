@@ -16,6 +16,7 @@ Pour l'instant, nous sommes une association loi 1901.
 
 ## Boite à outils
 
+- [David raconte : Travailler ensemble sans subordination](david-raconte-travailler-ensemble-sans-subordination)
 - [Morceaux de contrat](morceaux de contrat) 
 
 
