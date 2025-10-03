@@ -1,5 +1,5 @@
 ---
-title: "Comment marche L'Échappée Belle"
+title: "Statuts & Fonctionnement"
 order: 1
 in_menu: true
 ---
@@ -9,4 +9,4 @@ Pour l'instant, nous sommes une association loi 1901.
 
 [Notre journal de décision](journal-de-décisions)
 
-[Quand une personne rejoint l'Échappée Belle](liste-arrivée)
+[Quand une personne rejoint l'Échappée Belle](liste-arrivée) 
