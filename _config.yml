@@ -1,2 +1,12 @@
-remote_theme: scribouilli/mimoza
-title: L'Échappée Belle
+collections:
+  projects:
+    output: true
+
+plugins:
+  - jekyll-feed
+
+theme: mimoza
+
+scribouilli: true
+
+# i_know_what_i_am_doing: true
