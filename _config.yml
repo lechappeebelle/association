@@ -6,4 +6,4 @@ plugins:
   - jekyll-git-hash
 theme: mimoza
 scribouilli: true
-baseurl: /site_echappeebelle
+baseurl: /association
