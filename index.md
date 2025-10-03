@@ -3,18 +3,21 @@ title: "L'Échappée Belle"
 order: 1
 in_menu: true
 ---
+<div class="encart">
+<p>
 Faire avancer des projets qui ont du sens en prenant soin des personnes et de la planète.
+</p>
 
 
-
+<p>
 L'Échappée Belle est une association-coopérative qui explore [dans son fonctionnement](notre-fonctionnement) les liens entre salariat, subordination et émancipation.
+</p>
 
-
-
+<p>
 Actuellement, nous faisons du numérique engagé : pour le bien commun, sobre, accessible, centré utilisateur·ice.
+</p>
 
-
-
+</div>
 
 
 
