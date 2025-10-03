@@ -1,7 +1,8 @@
 ---
-title: L'Échappée Belle
+title: "L'Échappée Belle"
+order: 1
+in_menu: true
 ---
-
 ## On travaille ensemble ?
 
 ### Ce qu'on sait faire

@@ -1,7 +1,7 @@
 ---
 title: "Morceaux de contrat"
 order: 1
-in_menu: true
+in_menu: false
 ---
 # Morceaux de contrat de prestation
 

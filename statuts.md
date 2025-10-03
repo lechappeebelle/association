@@ -1,7 +1,8 @@
 ---
-title: Statuts
+title: "Statuts"
+order: 1
+in_menu: false
 ---
-
 ## Nom
 
 L'Échappée Belle

@@ -1,7 +1,7 @@
 ---
 title: "Menaces interne"
 order: 1
-in_menu: true
+in_menu: false
 ---
 Si un individu très mal intentionné fait partie de l'association, de quelle manière iel peut nuire aux autres ?
 
