@@ -4,8 +4,6 @@ order: 1
 in_menu: false
 ---
 
-# Travailler ensemble sans subordination
-
 Pour moi, David Bruant, cette histoire commence avec [dtc](https://dtc-innovation.org/writings/2017/une-association)
 
 On a réussi à créer une structure où tout le monde a le même pouvoir formel. Et on est tou.te.s salarié.e.s. Et on gagne suffisamment notre vie
