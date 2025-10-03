@@ -3,6 +3,7 @@ collections:
     output: true
 plugins:
   - jekyll-feed
+  - jekyll-git-hash
 theme: mimoza
 scribouilli: true
 baseurl: /site_echappeebelle
