@@ -19,13 +19,12 @@ Pour l'instant, nous sommes une association loi 1901.
 - [David raconte : Travailler ensemble sans subordination](david-raconte-travailler-ensemble-sans-subordination)
 - [Morceaux de contrat](morceaux de contrat) 
 
-
 ## Administratif
 
 - Numéro de SIREN : `888006202`
 - Numéro de SIRET : `88800620200020`
 - Code APE : `9499Z`
 - Numéro TVA intracommunautaire : `FR45 888 006 202`
-- Numéro RNA : W595037092
+- Numéro RNA : `W595037092`
 
-https://annuaire-entreprises.data.gouv.fr/entreprise/888006202 
+Notre page sur [annuaire entreprises](https://annuaire-entreprises.data.gouv.fr/entreprise/888006202) 
