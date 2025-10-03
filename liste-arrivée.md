@@ -1,7 +1,8 @@
 ---
-title: Liste d'arrivée nouvelleau membre
+title: "Liste d'arrivée nouvelleau membre"
+order: 1
+in_menu: false
 ---
-
 Dans ce document, on note les trucs qu'on sait que c'est cool de faire pour acceuillir un.e nouvelleau membre
 
 ## Membre

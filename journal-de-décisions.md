@@ -1,7 +1,8 @@
 ---
-title: Journal de Décisions
+title: "Journal de Décisions"
+order: 1
+in_menu: false
 ---
-
 ## 11 mars 2020
 
 ### Présent⋅e⋅s

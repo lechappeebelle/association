@@ -1,10 +1,47 @@
 ---
-title: L'Échappée Belle
+title: "L'Échappée Belle"
+order: 1
+in_menu: true
 ---
+# L'Échappée Belle
 
-## On travaille ensemble ?
+<div class="encart">
+<p>
+Faire avancer des projets qui ont du sens en prenant soin des personnes et de la planète.
+</p>
+</div>
 
-### Ce qu'on sait faire
+<div class="mis-en-avant">
+<p>
+<strong>L'Échappée Belle est une association-coopérative</strong> qui explore <a href="./notre fonctionnement.html">dans son fonctionnement</a> les liens entre salariat, subordination et émancipation.
+</p>
+
+<p>
+Actuellement, <strong>nous faisons du numérique engagé :</strong> pour le bien commun, sobre, accessible, centré utilisateur·ice.
+</p>
+
+</div>
+
+
+
+## Nos compétences
+
+Nous racontons [nos expériences](nos-experiences).
+
+Nous faisons :
+- du product management ("gestion de projet agile")
+- du design UI/UX
+- du développement web
+- de l'accessibilité numérique
+- de l'accompagnement d'équipe et/ou de porteur·euse de projet
+- des rétrospectives d'équipe
+
+
+
+
+## Comment nous travaillons
+
+### Ce qu'on fait
 
 * Prendre soin
 * Écouter les personnes concernées par un problème pour le comprendre et en avoir une définition partagée
@@ -25,9 +62,26 @@ title: L'Échappée Belle
 * Aller jusqu'au bout d'un budget alors que le problème est résolu en cours de route
 
 
-### Des exemples ? - Les histoires de l'Échappée Belle
 
-[Nos expériences](nos-experiences)
+
+
+## Les membres de l'Échappée Belle
+
+- [David Bruant](https://eldritch.cafe/@davidbruant)
+- [Fanny Cheung](https://ynote.hk/)
+- [Erick Gardin](https://entre-quote.com/)
+- [Maiana Lenoir](https://mana-spirit.fr/)
+- [Maïtané Lenoir](https://maiwann.net/)
+- [Sabine Safi](https://www.linkedin.com/in/sabinesafi/)
+
+
+## Pourquoi ce site est si basique ?
+
+
+Parce qu'on fait du numérique engagé : pour le bien commun, **sobre**, accessible, centré utilisateur·ice.
+
+Pour ce site-ci, nous utilisons [Scribouilli](https://scribouilli.org) un logiciel libre qui permet de créer des mini-sites.
+
 
 <!--
 
@@ -54,18 +108,13 @@ title: L'Échappée Belle
 -->
 
 
-## Fonctionnement de L'Échappée Belle
+## Administratif
 
-[C'est par ici](fonctionnement)
+- Numéro de SIREN : `888006202`
+- Numéro de SIRET : `88800620200020`
+- Code APE : `9499Z`
+- Numéro TVA intracommunautaire : `FR45 888 006 202`
+- Numéro RNA : `W595037092`
 
 
-## Membres actuels
-
-- [David Bruant](https://eldritch.cafe/@davidbruant)
-- [Erick Gardin](https://entre-quote.com/)
-- [Maïtané Lenoir](https://maiwann.net/)
-- [Sabine Safi](https://www.linkedin.com/in/sabinesafi/)
-- [Maiana Lenoir](https://mana-spirit.fr/)
-- [Fanny Cheung](https://ynote.hk/)
-
-[Page sur annuaire entreprises](https://annuaire-entreprises.data.gouv.fr/entreprise/888006202)
+Notre page sur [annuaire entreprises](https://annuaire-entreprises.data.gouv.fr/entreprise/888006202) 

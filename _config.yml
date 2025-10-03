@@ -1,2 +1,9 @@
-remote_theme: scribouilli/mimoza
-title: L'Échappée Belle
+collections:
+  projects:
+    output: true
+plugins:
+  - jekyll-feed
+  - jekyll-git-hash
+theme: mimoza
+scribouilli: true
+baseurl: /site_echappeebelle

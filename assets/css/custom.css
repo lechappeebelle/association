@@ -1,4 +1,11 @@
 :root {
   --couleur-primaire : #0E6270;
 }
-    
+
+.mis-en-avant {
+font-size : 1.5rem;
+}
+
+.mis-en-avant > p:first-child {
+margin-block: 2rem;
+}

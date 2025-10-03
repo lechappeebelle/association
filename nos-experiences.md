@@ -1,7 +1,8 @@
 ---
-title: Nos expériences
+title: "Nos expériences"
+order: 2
+in_menu: true
 ---
-
 Cette page raconte nos expériences, en tant que l'Échappée Belle ou en tant qu'individus avant la création de l'Échappée Belle.
 
 A nous tou.te.s, nous savons créer un service numérique de la définition du produit, à sa création et à son déploiement opérationnel.
