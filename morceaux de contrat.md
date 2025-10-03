@@ -1,7 +1,7 @@
 ---
 title: "Morceaux de contrat"
 order: 1
-in_menu: true
+in_menu: false
 ---
 L'Échappée Belle a des activités commerciales
 
