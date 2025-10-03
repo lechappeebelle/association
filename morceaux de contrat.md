@@ -1,10 +1,8 @@
 ---
 title: "Morceaux de contrat"
 order: 1
-in_menu: false
+in_menu: true
 ---
-# Morceaux de contrat de prestation
-
 L'Échappée Belle a des activités commerciales
 
 De notre côté, nous avons plutôt un penchant pour préférer les discussions et l'écoute plutôt qu'un contrat écrit bien touffu/solide
