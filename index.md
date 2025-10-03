@@ -3,6 +3,92 @@ title: "L'Échappée Belle"
 order: 1
 in_menu: true
 ---
+Faire avancer des projets qui ont du sens en prenant soin des personnes et de la planète.
+
+
+
+L'Échappée Belle est une association-coopérative qui explore [dans son fonctionnement](notre-fonctionnement) les liens entre salariat, subordination et émancipation.
+
+
+
+Actuellement, nous faisons du numérique engagé : pour le bien commun, sobre, accessible, centré utilisateur·ice.
+
+
+
+
+
+
+
+
+## Valeurs
+
+
+
+## Compétences / Expériences
+
+
+
+
+
+
+## Les membres de l'Échappée Belle
+
+- [David Bruant](https://eldritch.cafe/@davidbruant)
+- [Erick Gardin](https://entre-quote.com/)
+- [Maïtané Lenoir](https://maiwann.net/)
+- [Sabine Safi](https://www.linkedin.com/in/sabinesafi/)
+- [Maiana Lenoir](https://mana-spirit.fr/)
+- [Fanny Cheung](https://ynote.hk/)
+
+## Pourquoi ce site est si basique ?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------------------
+
+
+
+
+
 ## On travaille ensemble ?
 
 ### Ce qu'on sait faire
@@ -69,4 +155,4 @@ in_menu: true
 - [Maiana Lenoir](https://mana-spirit.fr/)
 - [Fanny Cheung](https://ynote.hk/)
 
-[Page sur annuaire entreprises](https://annuaire-entreprises.data.gouv.fr/entreprise/888006202)
+[Page sur annuaire entreprises](https://annuaire-entreprises.data.gouv.fr/entreprise/888006202) 
