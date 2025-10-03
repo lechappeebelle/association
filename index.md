@@ -13,11 +13,11 @@ Faire avancer des projets qui ont du sens en prenant soin des personnes et de la
 
 <div class="mis-en-avant">
 <p>
-L'Échappée Belle est une association-coopérative qui explore [dans son fonctionnement](notre-fonctionnement) les liens entre salariat, subordination et émancipation.
+<strong>L'Échappée Belle est une association-coopérative</strong> qui explore <a href="/notre fonctionnement.html">dans son fonctionnement</a> les liens entre salariat, subordination et émancipation.
 </p>
 
 <p>
-Actuellement, nous faisons du numérique engagé : pour le bien commun, sobre, accessible, centré utilisateur·ice.
+Actuellement, <strong>nous faisons du numérique engagé :</strong> pour le bien commun, sobre, accessible, centré utilisateur·ice.
 </p>
 
 </div>
