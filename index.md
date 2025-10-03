@@ -48,6 +48,8 @@ Actuellement, nous faisons du numérique engagé : pour le bien commun, sobre, a
 
 Parce qu'on fait du numérique engagé : pour le bien commun, **sobre**, accessible, centré utilisateur·ice.
 
+Pour ce site-ci, nous utilisons [Scribouilli](https://scribouilli.org)
+
 
 
 
