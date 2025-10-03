@@ -19,7 +19,6 @@ Faire avancer des projets qui ont du sens en prenant soin des personnes et de la
 <p>
 Actuellement, <strong>nous faisons du numérique engagé :</strong> pour le bien commun, sobre, accessible, centré utilisateur·ice.
 </p>
-
 </div>
 
 
