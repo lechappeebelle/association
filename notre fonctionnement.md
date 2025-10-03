@@ -1,5 +1,5 @@
 ---
-title: "Statuts & Fonctionnement"
+title: "Notre fonctionnement"
 order: 1
 in_menu: true
 ---
