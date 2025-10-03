@@ -1,3 +1,8 @@
+---
+title: "Morceaux de contrat"
+order: 1
+in_menu: true
+---
 # Morceaux de contrat de prestation
 
 L'Échappée Belle a des activités commerciales
@@ -178,9 +183,4 @@ Si <le client> est satisfait du sprint, il paye complètement le sprint (tous le
 - <https://kitdesurvie.metiers-graphiques.fr/articles/comment-fonctionne-le-droit-d-auteur>
 - <https://www.sacd.fr/fr/les-principes-g%C3%A9n%C3%A9raux-de-r%C3%A9mun%C3%A9ration-des-auteurs>
 - <https://entreprendre.service-public.fr/vosdroits/F22667>
-- <https://www.joffeassocies.com/newsletter-ip-cession-globale-doeuvres-futures-dun-salarie/>
-
-
-
-
-
+- <https://www.joffeassocies.com/newsletter-ip-cession-globale-doeuvres-futures-dun-salarie/> 
