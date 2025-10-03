@@ -12,8 +12,11 @@ Pour l'instant, nous sommes une association loi 1901.
 [Quand une personne rejoint l'Échappée Belle](liste-arrivée) 
 
 
-[Les risques qui existent (liés à nos choix de fonctionnement](menaces-interne) 
+[Les risques qui existent (liés à nos choix de fonctionnement)](menaces-interne) 
 
+## Boite à outils
+
+- [Morceaux de contrat](morceaux-de-contrat) 
 
 
 ## Administratif
