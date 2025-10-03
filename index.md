@@ -24,6 +24,21 @@ Actuellement, <strong>nous faisons du numérique engagé :</strong> pour le bien
 
 
 
+## Nos compétences
+
+Nous racontons [nos expériences](nos-experiences).
+
+Nous faisons :
+- du product management ("gestion de projet agile")
+- du design UI/UX
+- du développement web
+- de l'accessibilité numérique
+- de l'accompagnement d'équipe et/ou de porteur·euse de projet
+- des rétrospectives d'équipe
+
+
+
+
 ## Comment nous travaillons
 
 ### Ce qu'on fait
@@ -46,18 +61,6 @@ Actuellement, <strong>nous faisons du numérique engagé :</strong> pour le bien
 * Exécuter sans questionner
 * Aller jusqu'au bout d'un budget alors que le problème est résolu en cours de route
 
-
-
-## Nos compétences
-
-Nous racontons [nos expériences](nos-experiences).
-Nous faisons :
-- du product management
-- du design UI/UX
-- du développement web
-- de l'accessibilité numérique
-- de l'accompagnement d'équipe et/ou de porteur·euse de projet
-- des rétrospectives d'équipe
 
 
 
