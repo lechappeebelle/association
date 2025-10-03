@@ -46,8 +46,7 @@ Actuellement, nous faisons du numérique engagé : pour le bien commun, sobre, a
 ## Pourquoi ce site est si basique ?
 
 
-
-
+Parce qu'on fait du numérique engagé : pour le bien commun, **sobre**, accessible, centré utilisateur·ice.
 
 
 
