@@ -1,3 +1,8 @@
+---
+title: "Liens internes"
+order: 1
+in_menu: true
+---
 # L'Échappée Belle
 
 Dans [ce board](https://github.com/orgs/lechappeebelle/projects/1?fullscreen=true), on liste genre les actions associées à la création de la structure
@@ -34,4 +39,4 @@ https://annuaire-entreprises.data.gouv.fr/entreprise/888006202
 - [Banque](https://www.creditmutuel.fr/fr/authentification.html)
 - [Faire les fiches de paie](https://www.cea.urssaf.fr/)
 - [Impots](https://cfspro-idp.impots.gouv.fr/)
-- [Net entreprise](https://www.net-entreprises.fr/)
+- [Net entreprise](https://www.net-entreprises.fr/) 
