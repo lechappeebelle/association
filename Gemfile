@@ -6,6 +6,8 @@ gem "jekyll", "~> 4.3.2"
 gem "mimoza", git: "https://github.com/Scribouilli/mimoza.git", branch: "main"
 
 group :jekyll_plugins do
+  gem "jekyll-git-hash", "~> 0.1.1"
+
   # Handle redirections
   gem "jekyll-redirect-from", "~> 0.16"
 
