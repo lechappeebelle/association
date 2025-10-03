@@ -1,3 +1,9 @@
+---
+title: "Travailler ensemble sans subordination"
+order: 1
+in_menu: false
+---
+
 # Travailler ensemble sans subordination
 
 Pour moi, David Bruant, cette histoire commence avec [dtc](https://dtc-innovation.org/writings/2017/une-association)
