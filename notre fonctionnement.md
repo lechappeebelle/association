@@ -17,7 +17,8 @@ L'Échappée Belle est une association loi 1901.
 ## Boite à outils
 
 - [David raconte : Travailler ensemble sans subordination](david-raconte-travailler-ensemble-sans-subordination)
-- [Morceaux de contrat](morceaux de contrat) 
+- [Morceaux de contrat](morceaux de contrat)
+- [Épisode du podcast Questions d'asso](https://www.questions-asso.com/episodes/s02/episode15.html) détaillant le fonctionnement de l'Échappée Belle ([une retranscription](https://www.questions-asso.com/episodes/s02/episode15-texte.html) est disponible !)
 
 ## Administratif
 
